@@ -8,7 +8,9 @@ authors = [
   {name = "Jordy", email = "jordyfaria0@gmail.com"},
 ]
 classifiers = []
-dependencies = []
+dependencies = [
+	"python-dotenv==1.0.1"
+]
 # description = "Python Matter WebSocket Server"
 # license = {text = "Apache-2.0"}
 name = "teste"
